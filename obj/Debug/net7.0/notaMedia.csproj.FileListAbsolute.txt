@@ -1,0 +1,15 @@
+D:\laragon\www\C-Sharp\notaMedia\obj\Debug\net7.0\notaMedia.csproj.AssemblyReference.cache
+D:\laragon\www\C-Sharp\notaMedia\obj\Debug\net7.0\notaMedia.GeneratedMSBuildEditorConfig.editorconfig
+D:\laragon\www\C-Sharp\notaMedia\obj\Debug\net7.0\notaMedia.AssemblyInfoInputs.cache
+D:\laragon\www\C-Sharp\notaMedia\obj\Debug\net7.0\notaMedia.AssemblyInfo.cs
+D:\laragon\www\C-Sharp\notaMedia\obj\Debug\net7.0\notaMedia.csproj.CoreCompileInputs.cache
+D:\laragon\www\C-Sharp\notaMedia\bin\Debug\net7.0\notaMedia.exe
+D:\laragon\www\C-Sharp\notaMedia\bin\Debug\net7.0\notaMedia.deps.json
+D:\laragon\www\C-Sharp\notaMedia\bin\Debug\net7.0\notaMedia.runtimeconfig.json
+D:\laragon\www\C-Sharp\notaMedia\bin\Debug\net7.0\notaMedia.dll
+D:\laragon\www\C-Sharp\notaMedia\bin\Debug\net7.0\notaMedia.pdb
+D:\laragon\www\C-Sharp\notaMedia\obj\Debug\net7.0\notaMedia.dll
+D:\laragon\www\C-Sharp\notaMedia\obj\Debug\net7.0\refint\notaMedia.dll
+D:\laragon\www\C-Sharp\notaMedia\obj\Debug\net7.0\notaMedia.pdb
+D:\laragon\www\C-Sharp\notaMedia\obj\Debug\net7.0\notaMedia.genruntimeconfig.cache
+D:\laragon\www\C-Sharp\notaMedia\obj\Debug\net7.0\ref\notaMedia.dll
