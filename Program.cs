@@ -10,17 +10,17 @@ namespace NotaMedia
 			string nome, validaAprovacaoAluno, disciplina;
 
 			Console.Write("Digite o Nome do Aluno(a): ");
-			nome = Console.ReadLine();
+			nome = Console.ReadLine()!;
 
 			Console.Write("Digite a Disciplina do Aluno(a): ");
-			disciplina = Console.ReadLine();
+			disciplina = Console.ReadLine()!;
 
 			Console.Write("Digite a primeira nota: ");
-			v1 = int.Parse(Console.ReadLine());
+			v1 = int.Parse(Console.ReadLine()!);
 			Console.Write("Digite a segunda nota: ");
-			v2 = int.Parse(Console.ReadLine());
+			v2 = int.Parse(Console.ReadLine()!);
 			Console.Write("Digite a terceira nota: ");
-			v3 = int.Parse(Console.ReadLine());
+			v3 = int.Parse(Console.ReadLine()!);
 			
 			calculaNota = CalculaNota(v1, v2, v3);
 			validaAprovacaoAluno = ValidaAprovacaoAluno(nome, disciplina, calculaNota);
